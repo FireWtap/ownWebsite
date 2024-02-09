@@ -1,8 +1,9 @@
 {
-  "name": "v4",
-  "description": "Personal Website V4",
+  "name": "personalfrancesco",
+  "description": "Personal Website V4 by Brittany Chiang (Forked by Francesco Massafra)",
   "version": "1.0.0",
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "co-author": "Francesco Massafra <massafra32@gmail.com>",
   "repository": {
     "type": "git",
     "url": "https://github.com/bchiang7/v4"
