@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import styled, { ThemeProvider } from 'styled-components';
 import { Head, Loader, Nav, Social, Email, Footer } from '@components';
 import { GlobalStyle, theme } from '@styles';
-import { SpeedInsights } from '@vercel/speed-insights/next';
 
 const StyledContent = styled.div`
   display: flex;
