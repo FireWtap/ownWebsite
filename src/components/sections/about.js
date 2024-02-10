@@ -149,30 +149,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Francesco Massafra and I enjoy solving difficult problems. My
+              interest in computers began way back in my childhood when I started playing around
+              with programming languages with my father. Fast forward to today, I'm currently
+              enrolled in a BSc Computer Science @ University of Pisa and planning to get a Master's
+              abroad.
             </p>
-
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Apart from University, during these years I had the opportunity to work on several Web
+              Development Projects that really helped me get a grasp of how Backend Development
+              works. I've also started several different side projects to learn new technologies I
+              like, also experiment with AIs.
             </p>
-
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Some things I like to do in my free time are: chess, math, working out, read books,
+              enjoy some old school souls agony, and watch anime.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
