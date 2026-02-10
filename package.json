@@ -2,6 +2,9 @@
   "name": "personalfrancesco",
   "description": "Personal Website V4 by Brittany Chiang (Forked by Francesco Massafra)",
   "version": "1.0.0",
+  "engines": {
+        "node": "24.x"
+  }
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "co-author": "Francesco Massafra <massafra32@gmail.com>",
   "repository": {
